@@ -82,6 +82,18 @@ test_helper = [
     '# &#x1F642; slightly smiling face'
 	],
 	[
+    '# 👊🏻 closed fist',
+    '# &#x1F44A;&#x1F3FB; closed fist'
+	],
+	[
+    '# 👨🏻 man',
+    '# &#x1F468;&#x1F3FB; man'
+	],
+	[
+    '# 🤟🏾 love-you gesture',
+    '# &#x1F91F;&#x1F3FE; love-you gesture'
+	],
+	[
     '# 🤗 hugging face',
     '# &#x1F917; hugging face'
 	],
